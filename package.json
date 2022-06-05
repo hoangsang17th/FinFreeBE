@@ -1,0 +1,31 @@
+{
+  "name": "finviewbe",
+  "version": "1.0.0",
+  "description": "Đây là một dự án BE cho ứng dụng FinFree V2 với tên gọi mới là FinView được xây dựng bằng NodeJS trên hành trình tìm hiều một ngôn ngữ mới và thực hiện ước mơ của tuổi trẻ đầy tham vọng. Ngày 6/5/2022 10:48AM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangsang17th/FinViewBE.git"
+  },
+  "keywords": [
+    "FinView",
+    "FinTech",
+    "FinFree",
+    "HoangSang17th",
+    "17TH",
+    "Money Manager",
+    "Money Tracker"
+  ],
+  "author": "Hoàng Sang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangsang17th/FinViewBE/issues"
+  },
+  "homepage": "https://github.com/hoangsang17th/FinViewBE#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
