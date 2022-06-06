@@ -4,6 +4,7 @@
   "description": "Đây là một dự án BE cho ứng dụng FinFree V2 với tên gọi mới là FinView được xây dựng bằng NodeJS trên hành trình tìm hiều một ngôn ngữ mới và thực hiện ước mơ của tuổi trẻ đầy tham vọng. Ngày 6/5/2022 10:48AM",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon --inspect index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,6 +27,16 @@
   },
   "homepage": "https://github.com/hoangsang17th/FinViewBE#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "bluebird": "^3.7.2",
+    "express": "^4.18.1",
+    "firebase-admin": "^10.2.0",
+    "firebase-functions": "^3.21.2",
+    "http": "^0.0.1-security",
+    "pug": "^3.0.2",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16"
   }
 }

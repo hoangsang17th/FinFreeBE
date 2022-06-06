@@ -1,0 +1,3 @@
+node_modules/
+src/services/fintech-17th-firebase-adminsdk.json
+firestore.rules
