@@ -15,3 +15,5 @@ firebase login
 firebase init firestore
 npm i body-parser
 ```
+https://github.com/goldbergyoni/nodebestpractices
+https://github.com/AlaaMezian/NodeJs-backend-structure

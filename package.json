@@ -1,7 +1,7 @@
 {
-  "name": "finviewbe",
+  "name": "finfreebe",
   "version": "1.0.0",
-  "description": "Đây là một dự án BE cho ứng dụng FinFree V2 với tên gọi mới là FinView được xây dựng bằng NodeJS trên hành trình tìm hiều một ngôn ngữ mới và thực hiện ước mơ của tuổi trẻ đầy tham vọng. Ngày 6/5/2022 10:48AM",
+  "description": "Đây là một dự án BE cho ứng dụng FinFree V2 với tên gọi mới là FinFreeBE được xây dựng bằng NodeJS trên hành trình tìm hiều một ngôn ngữ mới và thực hiện ước mơ của tuổi trẻ đầy tham vọng. Ngày 6/5/2022 10:48AM",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --inspect index.js",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangsang17th/FinViewBE.git"
+    "url": "git+https://github.com/hoangsang17th/FinFreeBE.git"
   },
   "keywords": [
-    "FinView",
+    "FinFreeBE",
     "FinTech",
     "FinFree",
     "HoangSang17th",
@@ -23,9 +23,9 @@
   "author": "Hoàng Sang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hoangsang17th/FinViewBE/issues"
+    "url": "https://github.com/hoangsang17th/FinFreeBE/issues"
   },
-  "homepage": "https://github.com/hoangsang17th/FinViewBE#readme",
+  "homepage": "https://github.com/hoangsang17th/FinFreeBE#readme",
   "dependencies": {
     "bluebird": "^3.7.2",
     "body-parser": "^1.20.0",
